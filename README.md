@@ -23,4 +23,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ympgit&show_icons=true&locale=en" alt="ympgit" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ympgit&" alt="ympgit" /></p>
-![](https://leetcard.jacoblin.cool/YashPatade356?ext=contest)
+
