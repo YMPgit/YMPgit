@@ -24,5 +24,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ympgit&" alt="ympgit" /></p>
 
-![](https://leetcard.jacoblin.cool/YashPatade356?ext=contest)
-
