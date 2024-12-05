@@ -1,4 +1,6 @@
-# Hi there, I'm Yash Patade! 👋
+<div align="center">
+
+## Hi there, I'm Yash Patade! 👋
 
 A passionate Android developer and Competitive Programmer from India.
 
@@ -38,11 +40,16 @@ A passionate Android developer and Competitive Programmer from India.
 
 ## 🌟 Competitive Programming Stats
 
-### **LeetCode**
-![LeetCode Stats](https://leetcard.jacoblin.cool/YashPatade356?ext=contest)
+<div align="center">
 
-### **Codeforces**
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Yash_345&theme=dark)
+### **LeetCode** & **Codeforces**
+
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <img src="https://leetcard.jacoblin.cool/YashPatade356?ext=contest" alt="LeetCode Stats" />
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Yash_345&theme=dark" alt="Codeforces Stats" />
+</div>
+
+</div>
 
 ---
 
@@ -67,3 +74,6 @@ A passionate Android developer and Competitive Programmer from India.
 - **LinkedIn**: [YMPgit's LinkedIn](https://linkedin.com/in/yash-patade)
 
 Thanks for visiting! 😄
+
+
+</div>
