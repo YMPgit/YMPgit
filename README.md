@@ -15,18 +15,32 @@ A passionate Android developer and Competitive Programmer from India
 - **Tools**: Git, GitHub, VS Code  
 
 ## 🌟 Competitive Programming Stats  
-<table align="center">
+<table align="center" style="width: 100%; table-layout: fixed;">
   <tr>
-    <td align="center">
-      <img src="https://leetcard.jacoblin.cool/YashPatade356?ext=contest" alt="LeetCode Stats" width="250" />
+    <td align="center" style="padding: 0; width: 50%;">
+      <a href="https://leetcode.com/YashPatade356/" target="_blank">
+        <img src="https://leetcard.jacoblin.cool/YashPatade356?ext=contest" alt="LeetCode Stats" width="100%" />
+      </a>
       <p><b>LeetCode</b></p>
     </td>
-    <td align="center">
-      <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Yash_345&theme=dark" alt="Codeforces Stats" width="250" />
+    <td align="center" style="padding: 0; width: 50%;">
+      <a href="https://codeforces.com/profile/Yash_345" target="_blank">
+        <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Yash_345&theme=dark" alt="Codeforces Stats" width="100%" />
+      </a>
       <p><b>Codeforces</b></p>
     </td>
-    <td align="center">
-      <img src="https://gfgstatscard.vercel.app/yash678" alt="GFG stats" width="250" />
+  </tr>
+  <tr>
+    <td align="center" style="padding: 0; width: 50%;">
+      <a href="https://www.codechef.com/users/yash_patade" target="_blank">
+        <img src="https://codechef-readme-stats.onrender.com/yash_patade?v=1" alt="CodeChef Stats" width="100%" />
+      </a>
+      <p><b>CodeChef</b></p>
+    </td>
+    <td align="center" style="padding: 0; width: 50%;">
+      <a href="https://auth.geeksforgeeks.org/user/yash678/profile" target="_blank">
+        <img src="https://gfgstatscard.vercel.app/yash678" alt="GFG stats" width="100%" />
+      </a>
       <p><b>GeeksforGeeks</b></p>
     </td>
   </tr>
