@@ -40,4 +40,3 @@ Here are my competitive programming stats from various platforms:
 
 Thanks for visiting! 😄
 
-this was my code generate a banner for my profile
