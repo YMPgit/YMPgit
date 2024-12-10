@@ -66,6 +66,6 @@
 - **LeetCode**: Comes in **Top 40.98% Coders**  
 - **CodeStudio**: Ninja Dominator  
 
-
-Thanks for visiting! 😄  
+<h1 align="center">Thanks for visiting! 😄</h1>
+  
 
