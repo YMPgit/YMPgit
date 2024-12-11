@@ -1,3 +1,4 @@
+<img src="https://github.com/YMPgit/YMPgit/blob/main/assets/Yash%20Patade.png" width="100%" height="50%" align="center">
 <h1 align="center">Hi 👋, I'm Yash Patade</h1>
 <h3 align="center">A passionate Android developer and Competitive Programmer from India</h3>
 <img align="right" src="https://media1.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif?cid=6c09b9529k0uikcfanu2ktyk7e2wxbg37tdbs03xwfhme0cv&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" alt="image" width="400"> 
