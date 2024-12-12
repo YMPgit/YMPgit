@@ -45,8 +45,8 @@
   </tr>
   <tr>
     <td align="center" style="padding: 0; width: 50%;">
-      <a href="https://www.codechef.com/users/yash_patade" target="_blank">
-        <img src="https://codechef-readme-stats.onrender.com/yash_patade?v=1" alt="CodeChef Stats" width="100%" />
+      <a href="https://www.codechef.com/users/yash_patade">
+      <img src="https://codechef-readme-stats.onrender.com/yash_patade?v=1">
       </a>
       <p><b>CodeChef</b></p>
     </td>
