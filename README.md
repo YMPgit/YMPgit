@@ -52,7 +52,7 @@
   <tr>
     <td align="center" style="padding: 0; width: 50%;">
       <a href="https://www.codechef.com/users/yash_patade">
-      <img src="https://codechef-readme-stats.onrender.com/yash_patade?v=1">
+        <img src="https://codechef-readme-stats.onrender.com/yash_patade?v=1">
       </a>
       <p><b>CodeChef</b></p>
     </td>
