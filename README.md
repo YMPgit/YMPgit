@@ -44,7 +44,7 @@
     </td>
     <td align="center" style="padding: 0; width: 50%;">
       <a href="https://codeforces.com/profile/Yash_345" target="_blank">
-        <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Yash_345&theme=dark" alt="Codeforces Stats" width="100%" />
+        <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Yash_345" alt="Codeforces Stats" width="100%" />
       </a>
       <p><b>Codeforces</b></p>
     </td>
