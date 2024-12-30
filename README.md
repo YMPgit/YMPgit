@@ -70,7 +70,7 @@
 - **CodeChef**: Silver Badge in Problem Solving  
 - **LeetCode**: Comes in **Top 32.07% Coders**  
 - **CodeStudio**: Ninja Dominator
-- **GeeksforGeeks**: University Rank **13**
+- **GeeksforGeeks**: University Rank **12**
 
 <h1 align="center">Thanks for visiting! 😄</h1>
   
