@@ -69,7 +69,7 @@
 - **HackerRank**: 5-star coder in C++  
 - **CodeChef**: Silver Badge in Problem Solving  
 - **LeetCode**: Comes in **Top 33.69% Coders**  
-- **CodeStudio**: Ninja Dominator
+- **CodeStudio**: Ninja Dominator and **4 times College Topper**
 - **GeeksforGeeks**: Institute Rank **11**
 
 <h1 align="center">Thanks for visiting! 😄</h1>
