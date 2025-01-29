@@ -68,7 +68,7 @@
 ## 🏆 Achievements  
 - **HackerRank**: 5-star coder in C++  
 - **CodeChef**: Silver Badge in Problem Solving  
-- **LeetCode**: Comes in **Top 33.62% Coders**  
+- **LeetCode**: Comes in **Top 30.25% Coders**  
 - **CodeStudio**: Ninja Dominator and **4 times College Topper**
 - **GeeksforGeeks**: Institute Rank **7**
 
