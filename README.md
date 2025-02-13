@@ -1,4 +1,3 @@
-<img src="https://github.com/YMPgit/YMPgit/blob/main/assets/Yash%20Patade.png" width="100%" height="50%" align="center">
 <h1 align="center">Hi 👋, I'm Yash Patade</h1>
 <h3 align="center">A passionate Android developer and Competitive Programmer from India</h3>
 <img align="right" src="https://media1.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif?cid=6c09b9529k0uikcfanu2ktyk7e2wxbg37tdbs03xwfhme0cv&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" alt="gif" width="400"> 
@@ -33,37 +32,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ympgit&" alt="ympgit" /></p>
 
-## 🌟 Competitive Programming Stats  
-<table align="center" style="width: 100%; table-layout: fixed;">
-  <tr>
-    <td align="center" style="padding: 0; width: 50%;">
-      <a href="https://leetcode.com/YashPatade356/" target="_blank">
-        <img src="https://leetcard.jacoblin.cool/YashPatade356?ext=contest" alt="LeetCode Stats" width="100%" />
-      </a>
-      <p><b>LeetCode</b></p>
-    </td>
-    <td align="center" style="padding: 0; width: 50%;">
-      <a href="https://codeforces.com/profile/Yash_345" target="_blank">
-        <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Yash_345" alt="Codeforces Stats" width="100%" />
-      </a>
-      <p><b>Codeforces</b></p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="padding: 0; width: 50%;">
-      <a href="https://www.codechef.com/users/yash_patade">
-        <img src="https://codechef-readme-stats.onrender.com/yash_patade?v=1">
-      </a>
-      <p><b>CodeChef</b></p>
-    </td>
-    <td align="center" style="padding: 0; width: 50%;">
-      <a href="https://auth.geeksforgeeks.org/user/yash678/profile" target="_blank">
-        <img src="https://gfgstatscard.vercel.app/yash678" alt="GFG stats" width="100%" />
-      </a>
-      <p><b>GeeksforGeeks</b></p>
-    </td>
-  </tr>
-</table>
 
 ## 🏆 Achievements  
 - **HackerRank**: 5-star coder in C++  
