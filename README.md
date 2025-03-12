@@ -16,7 +16,6 @@
 <p align="left">
 <a href="https://twitter.com/yash_patade_101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yash_patade_101" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/yash-patade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash-patade" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/yash_patade" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="yash_patade" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/patadeyash356" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="patadeyash356" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/yash_345" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="yash_345" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/yashpatade356" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yashpatade356" height="30" width="40" /></a>
@@ -36,7 +35,6 @@
 
 ## 🏆 Achievements  
 - **HackerRank**: 5-star coder in C++  
-- **CodeChef**: **Silver Badge** in Problem Solving and **2 star coder**  
 - **LeetCode**: Comes in **Top 9.58% Coders** with Ratings **1755** 
 - **CodeStudio**: Ninja Dominator and **6 times College Topper**
 - **GeeksforGeeks**: Institute Rank **5**
