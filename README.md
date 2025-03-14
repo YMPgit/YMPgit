@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash Patade</h1>
-<h3 align="center">A passionate Android developer and Competitive Programmer from India</h3>
+<h3 align="center">A passionate developer and Competitive Programmer from India</h3>
 <img align="right" src="https://media1.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif?cid=6c09b9529k0uikcfanu2ktyk7e2wxbg37tdbs03xwfhme0cv&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" alt="gif" width="400"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=YMPgit&label=Profile%20views&color=0e75b6&style=flat" alt="YMPgit" /> </p>
