@@ -35,7 +35,7 @@
 
 ## 🏆 Achievements  
 - **HackerRank**: 5-star coder in C++  
-- **LeetCode**: Comes in **Top 9.58% Coders** with Ratings **1755** 
+- **LeetCode**: Comes in **Top 10.64% Coders** with Ratings **1736** 
 - **CodeStudio**: Ninja Dominator and **6 times College Topper**
 - **GeeksforGeeks**: Institute Rank **5**
 
