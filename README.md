@@ -37,7 +37,7 @@
 - **HackerRank**: 5-star coder in C++  
 - **LeetCode**: Comes in **Top 8.16% Coders** with Ratings **1787** 
 - **CodeStudio**: Ninja Dominator and **9 times College Topper**
-- **GeeksforGeeks**: Institute Rank **5**
+- **GeeksforGeeks**: Institute Rank **4**
 
 <h1 align="center">Thanks for visiting! 😄</h1>
   
